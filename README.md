@@ -2,7 +2,7 @@
 
 A data-wrangling exercise in **Pandas** and **NumPy** that builds three related datasets (employees, seniority, projects), cleans them, merges them, and applies business rules for bonuses, promotions, and demotions.
 
-      📓 **Notebook:** [`capstoneproject.ipynb`](capstoneproject.ipynb)
+   📓 **Notebook:** [capstoneproject.ipynb](https://github.com/LikhithaHN/python-fundamentals-capstone/blob/main/capstoneproject.ipynb)
 ## Datasets
 
 | DataFrame | Rows | Columns |
